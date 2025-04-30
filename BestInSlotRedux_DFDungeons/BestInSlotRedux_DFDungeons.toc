@@ -1,0 +1,9 @@
+## Interface: 110007
+## Title: Best In Slot Redux Manager [|cffff975bDragonflight-M+|r|r]
+## Notes: TWW Mythic+ Module for BestInSlotRedux
+## Author: Beleria @ Argent Dawn-EU, Anhility @ Ravencrest-EU, Sar\195\173th @ Tarren Mill-EU, Swarley @ Burning Legion-NA, Dioxina @ Antonidas-EU
+## Version: v11
+## Dependencies: BestInSlotRedux
+## IconTexture: Interface\ICONS\Achievement_bg_most_damage_killingblow_dieleast.blp
+
+TWWDungeonsS2.lua

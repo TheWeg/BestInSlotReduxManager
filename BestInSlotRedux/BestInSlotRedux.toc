@@ -1,0 +1,15 @@
+## Interface: 110105
+## Title: Best In Slot Redux Manager
+## Notes: Keep track of your, your raid members and your guilds Best in Slot list!
+## Author: Beleria @ Argent Dawn-EU, Anhility @ Ravencrest-EU, Sar\195\173th @ Tarren Mill-EU, Swarley @ Burning Legion-NA, Dioxina @ Antonidas-EU
+## Version: v11.01.05e
+## Dependencies: Blizzard_Professions
+## OptionalDependencies: Simulationcraft
+## SavedVariables: BestInSlotDB
+## IconTexture: Interface\ICONS\Achievement_bg_most_damage_killingblow_dieleast.blp
+
+Libs\Libs.xml
+Locales\Locales.xml
+Include.xml
+Frames\Include.xml
+Modules\Include.xml

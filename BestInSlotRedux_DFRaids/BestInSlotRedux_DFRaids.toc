@@ -1,0 +1,9 @@
+## Interface: 110100
+## Title: Best In Slot Redux Manager [|cffff975bDragonflight|r|r]
+## Notes: Dragonflight Raid Module for BestInSlotRedux
+## Author: Beleria @ Argent Dawn-EU, Anhility @ Ravencrest-EU, Sar\195\173th @ Tarren Mill-EU, Swarley @ Burning Legion-NA, Dioxina @ Antonidas-EU
+## Version: v11
+## Dependencies: BestInSlotRedux
+## IconTexture: Interface\ICONS\Achievement_bg_most_damage_killingblow_dieleast.blp
+
+TWWS2.lua
