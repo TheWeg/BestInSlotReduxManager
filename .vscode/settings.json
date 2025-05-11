@@ -107,6 +107,24 @@
         "OKAY",
         "ChatFrame_AddMessageEventFilter",
         "ChatFrame_RemoveMessageEventFilter",
-        "WorldMapFrame"
+        "WorldMapFrame",
+        "DressUpTexturePath",
+        "PAPERDOLL_STATCATEGORIES",
+        "MAX_CLASSES",
+        "Model_OnMouseWheel",
+        "HIGHLIGHT_FONT_COLOR_CODE",
+        "ARMOR_TEMPLATE",
+        "PREVIEW",
+        "Model_OnMouseDown",
+        "Model_OnLoad",
+        "STAT_CATEGORY_ATTRIBUTES",
+        "STAT_CATEGORY_ENHANCEMENTS",
+        "DISABLED_FONT_COLOR_CODE",
+        "Model_OnEvent",
+        "PAPERDOLLFRAME_TOOLTIP_FORMAT",
+        "STAT_CRITICAL_STRIKE",
+        "SPELL_STAT5_NAME",
+        "ATTACK_POWER_TOOLTIP",
+        "PaperDollFrame_GetArmorReduction"
     ]
 }
